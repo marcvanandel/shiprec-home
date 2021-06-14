@@ -1,0 +1,15 @@
+# editor files
+.vscode/
+
+# generated files
+out/
+site/
+
+# IDE files
+.vscode/
+
+# temporary files
+~$*.*
+
+# npm
+node_modules/
