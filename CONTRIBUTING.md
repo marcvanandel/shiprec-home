@@ -1,6 +1,6 @@
-# The ShipRec Contribution Guide
+# The ShipReg Contribution Guide
 
-The ShipRec project aims to start and support the development of a Ship Registry (a.k.a. 'Recording' hence the name ;-) in The Netherlands. This is started as an (semi-)open innovation of the Emerging Technology Center Team of Kadaster, the Dutch Land Administration Office.
+The ShipReg project aims to start and support the development of a Ship Registry in The Netherlands. This is started as an (semi-)open innovation of the Emerging Technology Center Team of Kadaster, the Dutch Land Administration Office.
 
 Thus we appreciate your input, enjoy feedback and welcome improvements to this project and are very open to collaboration. Therefore we love issues and pull requests from everyone.
 
@@ -12,7 +12,7 @@ You don’t need to change any of our code or documentation to be a contributor!
 If you want to add to the documentation or code of one of our projects you should make a pull request.
 If you never used GitHub, get up to speed with [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with [MarkDown](https://lab.github.com/githubtraining/communicating-using-markdown), the syntax this project’s documentation is in.
 
-This project is licensed under the [European Union Public Licence](https://eupl.eu/), also available [here](https://github.com/marcvanandel/shiprec-home/blob/main/LICENSE.md) in MarkDown, English and Dutch.
+This project is licensed under the [European Union Public Licence](https://eupl.eu/), also available [here](https://github.com/marcvanandel/ShipReg-home/blob/main/LICENSE.md) in MarkDown, English and Dutch.
 
 ### 1. Make your changes
 This project uses the [GitHub flow](https://guides.github.com/introduction/flow/) and contributors are requested to use [Fork & Pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-collaborative-development-models) creating a personal copy of an existing repository. You can push changes to your personal fork and after a pull request the changes can (eventually) be pulled into the source repository by the project maintainer.

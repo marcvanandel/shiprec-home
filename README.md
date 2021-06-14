@@ -1,8 +1,8 @@
-# ShipRec a.k.a. Registry | Home
+# ShipReg, the Ship Registry | Home
 
 <img src="docs/img/noun_sinking_ship_2463514.svg" width="300" align="right">
 
-This is the home of 'ShipRec', the Ship Registry (a.k.a. Recording, hence the name ;-) of The Netherlands ... well, the first set up of an event-sourced approach of it :-)
+This is the home of 'ShipReg', the Ship Registry of The Netherlands ... well, the first set up of an event-sourced approach of it :-)
 
 Keep posted for further development!
 
@@ -11,7 +11,7 @@ Keep posted for further development!
 
 ## Find Us
 
-* [GitHub](https://github.com/marcvanandel/shiprec-home)
+* [GitHub](https://github.com/marcvanandel/ShipReg-home)
 
 ## Contributing
 
