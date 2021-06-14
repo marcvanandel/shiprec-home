@@ -1,12 +1,10 @@
-# Ship Recording a.k.a. Registry | Home
+# ShipRec a.k.a. Registry | Home
 
-<img src="docs/img/noun_sinking_ship_2463514.svg" width="300">
-*sinking ship by Ian Rahmadi Kurniawan from the Noun Project
+<img src="docs/img/noun_sinking_ship_2463514.svg" width="300" align="right">
 
-This is the home of 'Shiprec', the Ship Registry of The Netherlands ... well, the first set up of an event-sourced approach of it :-)
+This is the home of 'ShipRec', the Ship Registry (a.k.a. Recording, hence the name ;-) of The Netherlands ... well, the first set up of an event-sourced approach of it :-)
 
 Keep posted for further development!
-
 
 
 ---
@@ -26,3 +24,7 @@ Should you have any questions or concerns, please reach out to one of the projec
 ## License
 
 This work is licensed under a [EUPL v1.2 license](./LICENSE.md). All documentation is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## Attribution
+
+* Logo: sinking ship by Ian Rahmadi Kurniawan from the Noun Project
