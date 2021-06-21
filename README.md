@@ -18,6 +18,12 @@ The forms can be found at the current operational process locations:
 - [kadaster.nl/aanvragen-teboekstelling-schip](https://www.kadaster.nl/aanvragen-teboekstelling-schip)
 - [ILenT/aanvraag-registratie-pleziervaartuigen](https://www.ilent.nl/onderwerpen/pleziervaart/documenten/formulieren/2016/10/24/formulier-aanvraag-registratie-pleziervaartuigen)
 
+This is the new proposed processes:
+
+![Process Chapter 4](docs/img/shipreg-process-chap4.png)
+![Process Chapter 5](docs/img/shipreg-process-chap5.png)
+![Process Chapter 6](docs/img/shipreg-process-chap6.png)
+
 ## Design
 
 So there are multiple parties involved in the whole process. The new designed process suggests an easier flow and collection of information but still this contains multiple parties in multiple steps. How might this be separated into separate systems working together?
