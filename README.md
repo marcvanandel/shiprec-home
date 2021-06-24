@@ -26,9 +26,27 @@ These are the new proposed processes:
 
 ## Design
 
+### Process and Events
+
+![Start](docs/img/SchipReg-Miro-1-Start.jpg)
+
+![Rechtenstructuur](docs/img/SchipReg-Miro-2-Rechtenstructuur.jpg)
+
+![Nieuwe aanvraag](docs/img/SchipReg-Miro-3-NieuweAanvraag.jpg)
+
+![Aanvraagproces](docs/img/SchipReg-Miro-4-Aanvraagproces.jpg)
+
+![Scenario #1](docs/img/SchipReg-Miro-5-Scenario1.jpg)
+
+![Scenario #1 Aanvraagproces](docs/img/SchipReg-Miro-6-Scenario1-Aanvraagproces.jpg)
+
+
+### Architecture 
+
 So there are multiple parties involved in the whole process. The new designed process suggests an easier flow and collection of information but still this contains multiple parties in multiple steps. How might this be separated into separate systems working together?
 
 ![ShipReg Architecture](docs/img/shipreg-architecture-v02.png)
+
 
 ---
 
