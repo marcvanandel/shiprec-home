@@ -2,7 +2,7 @@
 
 <img src="docs/img/noun_sinking_ship_2463514.svg" width="300" align="right">
 
-This is the home of 'ShipReg', the Ship Registry of The Netherlands ... well, the first set up of an event-sourced approach of it :-)
+This is the home of 'ShipReg', the Ship Registry of The Netherlands ... well, the first set up of an **event-sourced** approach of it :-)
 
 Keep posted for further development!
 
@@ -18,7 +18,7 @@ The forms can be found at the current operational process locations:
 - [kadaster.nl/aanvragen-teboekstelling-schip](https://www.kadaster.nl/aanvragen-teboekstelling-schip)
 - [ILenT/aanvraag-registratie-pleziervaartuigen](https://www.ilent.nl/onderwerpen/pleziervaart/documenten/formulieren/2016/10/24/formulier-aanvraag-registratie-pleziervaartuigen)
 
-This is the new proposed processes:
+These are the new proposed processes:
 
 ![Process Chapter 4](docs/img/shipreg-process-chap4.png)
 ![Process Chapter 5](docs/img/shipreg-process-chap5.png)
@@ -28,7 +28,7 @@ This is the new proposed processes:
 
 So there are multiple parties involved in the whole process. The new designed process suggests an easier flow and collection of information but still this contains multiple parties in multiple steps. How might this be separated into separate systems working together?
 
-![ShipReg Architecture](docs/img/shipreg-architecture-v01.png)
+![ShipReg Architecture](docs/img/shipreg-architecture-v02.png)
 
 ---
 
