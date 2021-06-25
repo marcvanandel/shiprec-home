@@ -4,7 +4,7 @@
 
 This is the home of 'ShipReg', the Ship Registry of The Netherlands ... well, the first set up of an **event-sourced** approach of it :-)
 
-Keep posted for further development!
+**This is the result of an Innovation Friday @ Kadaster. The pitch ... which was the maximum result (instead of working software :-j ) can be found [here](docs/2021-06-25-ETC-ShipReg-InnovationFriday-Pitch.pptx)**
 
 ## Starting Point
 
