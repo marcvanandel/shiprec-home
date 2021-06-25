@@ -26,6 +26,11 @@ These are the new proposed processes:
 
 ## Design
 
+- [Process and Events](#process-and-events)
+- [Architecture](#architecture)
+- [UI Layout](#ui-layout)
+
+
 ### Process and Events
 
 ![Start](docs/img/SchipReg-Miro-1-Start.jpg)
@@ -39,6 +44,13 @@ These are the new proposed processes:
 ![Scenario #1](docs/img/SchipReg-Miro-5-Scenario1.jpg)
 
 ![Scenario #1 Aanvraagproces](docs/img/SchipReg-Miro-6-Scenario1-Aanvraagproces.jpg)
+
+
+### UI Layout
+
+![Layout 1](docs/img/shipreg-ui-layout-1.png)
+
+![Layout 2](docs/img/shipreg-ui-layout-2.png)
 
 
 ### Architecture 
